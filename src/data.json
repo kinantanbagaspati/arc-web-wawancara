@@ -3,7 +3,7 @@
         {
             "NIM": 13519118,
             "Nama": "Cynthia Rusadi",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
@@ -19,7 +19,7 @@
         {
             "NIM": 13519191,
             "Nama": "Kevin Ryan",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
@@ -35,7 +35,7 @@
         {
             "NIM": 13519019,
             "Nama": "Jason Stanley Yoman",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
@@ -51,7 +51,7 @@
         {
             "NIM": 13519121,
             "Nama": "Michael Philip Gunadi",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
@@ -70,7 +70,7 @@
         {
             "NIM": 13519002,
             "Nama": "Steven Nataniel Kodyat",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
@@ -90,7 +90,7 @@
         {
             "NIM": 13519079,
             "Nama": "Jesson Gosal Yo",
-            "URL": "../assets/wawancara1.jpg",
+            "URL": "./assets/wawancara1.jpg",
             "Date": "2021-03-01",
             "Catatan": [
                 {
